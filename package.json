@@ -1,0 +1,22 @@
+{
+  "name": "gaming-hall-of-fame",
+  "version": "1.0.0",
+  "description": "A simple website project to get more comfortable with collaboration, version control and basic webpage design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisFeehan/Gaming-Hall-of-Fame.git"
+  },
+  "author": "Feehan Juren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisFeehan/Gaming-Hall-of-Fame/issues"
+  },
+  "homepage": "https://github.com/ChrisFeehan/Gaming-Hall-of-Fame#readme",
+  "dependencies": {
+    "ejs": "^3.1.8"
+  }
+}
