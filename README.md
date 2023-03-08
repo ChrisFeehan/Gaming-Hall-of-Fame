@@ -19,36 +19,37 @@ This project will be a webpage, with primarily static content, featuring 3-5 fav
 - Links
 - About the authors?
 
-- Game 1 page
+### Game 1 page
 
-  - Description
-  - Images
-  - Favorite moments
-  - Why it is a hall of famer
+- Description
+- Images
+- Favorite moments
+- Why it is a hall of famer
 
-- Game 2 page
+### Game 2 page
 
-  - Description
-  - Images
-  - Favorite moments
-  - Why it is a hall of famer
+- Description
+- Images
+- Favorite moments
+- Why it is a hall of famer
 
-- Game 3 page
+### Game 3 page
 
-  - Description
-  - Images
-  - Favorite moments
-  - Why it is a hall of famer
+- Description
+- Images
+- Favorite moments
+- Why it is a hall of famer
 
-- Game 4 page
+### Game 4 page
 
-  - Description
-  - Images
-  - Favorite moments
-  - Why it is a hall of famer
+- Description
+- Images
+- Favorite moments
+- Why it is a hall of famer
 
-- Game 5 page
-  - Description
-  - Images
-  - Favorite moments
-  - Why it is a hall of famer
+### Game 5 page
+
+- Description
+- Images
+- Favorite moments
+- Why it is a hall of famer
